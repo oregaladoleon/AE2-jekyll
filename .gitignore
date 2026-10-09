@@ -1,0 +1,15 @@
+# 1. Archivos generados por Jekyll (BUILD & CACHE)
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# 2. Gestión de dependencias (Ruby & Bundler)
+.bundle/
+vendor/
+
+# 3. Archivos del sistema y de entorno
+.DS_Store
+*.log
+*.swp
+.env
