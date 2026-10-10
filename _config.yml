@@ -1,0 +1,16 @@
+title: Blog de Oscar Regalado
+email: osrl90@gmail.com
+description: "Despliegue con jekyll"
+baseurl: "" # Déjalo vacío si serviremos en la raíz de /ae2
+url: "http://localhost:8080"
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Excluir archivos innecesarios al compilar
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
