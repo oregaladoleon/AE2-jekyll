@@ -86,7 +86,7 @@ Creamos el archivo de configuración **_config.yml**
 nano _config.yml
 ~~~
 ---
-## Configuración
+
 Contenido del fichero
 ~~~
 title: Blog de Oscar Regalado
@@ -106,6 +106,7 @@ exclude:
   - Gemfile.lock
   - README.md
 ~~~
+## Configuración
 Creamos el directorio **_post** con contenido:
 ~~~bash
 mkdir _posts
@@ -157,6 +158,6 @@ server {
 ## Problemas encontrados y solución
 No aplica en este documento.
 ## Repositorio remoto
-Enlace público: https://github.com/oregaladoleon/AE2-
+Enlace público: https://github.com/oregaladoleon/AE2-jekyll.git
 
 
